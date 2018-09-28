@@ -18,7 +18,7 @@ def lcs(str_1, str_2):
 
 
 if __name__ == '__main__':
-    if False:
+    if True:
         str_1, str_2 = sys.argv[1], sys.argv[2]
         # str_1, str_2 = 'XMJYAUZ', 'MZJAWXU'
         # str_1, str_2 = 'abcdefg', 'xaxcxexgx'
